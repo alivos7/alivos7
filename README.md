@@ -1,16 +1,13 @@
 ### Hi there 👋
-:snowflake: My Name is Thohir a.k.a Alivos :snowflake:
-<!--
-**alivos7/alivos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :snowflake: My Name is Thohir a.k.a Alivos :snowflake:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on, anggap saja pengangguran
-- 🌱 I’m currently learning, banyak sih awikwok 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on, Let's just say unemployment has many styles 😂
+### 🍭 I’m currently learning, many thing's 🍭
+### 👯 I’m looking to collaborate on Hacking maybe?
+### 🤔 I’m looking for help with who ?
+### 💬 Ask me about anything what u want to ask, and i'll answer it with anything i want 😆
+### 📫 How to reach me: **bit.ly/Alivos7** this is my WhatsApp ✨ and this is my Instagram @alivos7 ✨
+
+### 😄 Pronouns: GABISA BAHASA INGGRIS LMAO
+### ⚡ Fun fact: the happier you sleep, the less sleep time
