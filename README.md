@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :snowflake: My Name is Thohir a.k.a Alivos :snowflake:
+### :snowflake: My Name is Kiky Reed, a.k.a Alivos :snowflake:
 
 
 ### 🔭 I’m currently working on, Let's just say unemployment has many styles 😂
