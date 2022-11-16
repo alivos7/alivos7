@@ -131,7 +131,7 @@ banner() {
                               ${N}\033[3;35#${N}
               ${N}SQl-i${N}
            ${R}#${N}#${N}
-            ${O}##Demon King##${O}${O}${N} 
+            ${O}##Demon Alivos##${O}${O}${N} 
          
         "
 }
@@ -2582,7 +2582,7 @@ case $d in
                  dec=$(curl -A "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0" --max-time $time_out -s "http://www.nitrxgen.net/md5db/${hash}")
                  if [[ "$dec" = "" ]]
                  then
-                   echo -e "${R}F A I L E D nga bisa di hash${N}"
+                   echo -e "${R}F A I L E D ngga bisa di hash${N}"
                  else
                    echo "Result: $dec"
                  fi
@@ -2683,7 +2683,7 @@ case $d in
       hekel="y" 
       clear
       banner
-      echo -e "          |\033[7;32m Psqli Sqli/Xss/LFI/AdminFinder Scanner masal ${N}|\n"
+      echo -e "          |\033[7;32m Psqli Sqli/Xss/LFI/AdminFinder Scanner massal ${N}|\n"
       read -p "site list: " list
       rm -rf .result_dork .not .url .vuln .bad .wp .live
       trap break INT
