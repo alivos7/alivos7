@@ -11,3 +11,4 @@
 
 ### 😄 Pronouns: GABISA BAHASA INGGRIS LMAO
 ### ⚡ Fun fact: the happier you sleep, the less sleep time
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alivos7)](https://github.com/anuraghazra/github-readme-stats)
