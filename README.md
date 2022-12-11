@@ -14,6 +14,8 @@
 ## 📊 Github Stats
 
 <p>
+  </p>
+  </p>
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivos7&langs_count=8&theme=react" />
 </p>
