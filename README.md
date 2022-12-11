@@ -11,5 +11,20 @@
 
 ### 😄 Pronouns: GABISA BAHASA INGGRIS LMAO
 ### ⚡ Fun fact: the happier you sleep, the less sleep time
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivos7)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alivos7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+## 📊 Github Stats
+
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivos7&langs_count=8&theme=react" />
+</p>
+
+<a href="https://github.com/alivos7"><img alt="alivos7's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=alivos7&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alivos7&theme=black-ice"
+    alt="alivos7" /></p>
+
+<br />
+
+<a href="https://github.com/alivos7"><img alt="alivos7's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=Adelittle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
